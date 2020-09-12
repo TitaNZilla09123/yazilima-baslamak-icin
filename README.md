@@ -49,7 +49,7 @@ Ama sonra hazır kodun hiç bir şeye yaramıyacağını anlarsınız ve bazı d
 
 # En bilindik Diğer diller ise
 
-- C++ C# C Gibi Dillerdir. Bunlarla bir yapay zeka veya oyun yapabilirsiniz. ve daha fazlaları.
+- C++ C# C Gibi Dillerdir. Bunlarla bir oyun yapabilirsiniz. ve daha fazlaları.
 
 - Bilmeyenlere çok zor bir dildir öğrenmesi ayrı zordur. ama veri akışı çok hızlıdır.  
 
